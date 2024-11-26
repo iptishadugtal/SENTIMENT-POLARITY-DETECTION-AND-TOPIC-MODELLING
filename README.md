@@ -1,14 +1,22 @@
 # SENTIMENT-POLARITY-DETECTION-AND-TOPIC-MODELLING
 
 APPROACH 
+
+
 <img width="524" alt="Screenshot 2024-11-26 at 9 49 11 PM" src="https://github.com/user-attachments/assets/5ab54653-8892-4fdc-8651-a1f06c0edc83">
 
 RESULTS
 
+
+
 Textrank-LDA
+
+
 ![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
 
 CNN-Bilstm
+
+
 ![image](https://github.com/user-attachments/assets/fac9f970-33fd-437b-9f53-ca1302b32e7f)
 
 Sentiment ditribution for a span of 5 years
