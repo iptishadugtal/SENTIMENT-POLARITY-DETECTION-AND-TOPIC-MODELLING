@@ -4,13 +4,25 @@ APPROACH FOR COMAPRITIVE SENTIMENT ANALYSIS
 
 
 <img width="524" alt="Screenshot 2024-11-26 at 9 49 11 PM" src="https://github.com/user-attachments/assets/5ab54653-8892-4fdc-8651-a1f06c0edc83">
+
+
+
 CNN-Bilstm 
 
 ![image](https://github.com/user-attachments/assets/fac9f970-33fd-437b-9f53-ca1302b32e7f)
 
 
 RESULTS
+
+
+
+
+
 The comaprision results are comapred on the basis of major preformance metrics : Accuracy , Precision , Recall and F1-score
+
+
+
+
 <img width="836" alt="Screenshot 2024-12-21 at 12 00 07 PM" src="https://github.com/user-attachments/assets/c75848d8-59e4-40e4-b076-4bb0c36d2819" />
 
 
