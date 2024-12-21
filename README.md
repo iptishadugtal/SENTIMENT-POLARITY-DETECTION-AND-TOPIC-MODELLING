@@ -10,12 +10,6 @@ For topic modelling,raw Youtube com- ments were translated into english using Go
 
 <img width="599" alt="Screenshot 2024-12-21 at 12 08 24 PM" src="https://github.com/user-attachments/assets/22ba9cd4-f56b-4f47-9246-771d748cb9b1" />
 
-
-
-
-
-
-
 RESULTS
 
 
@@ -24,8 +18,6 @@ These are the resulting topics on the one year data collection of youtube commen
 
 
 ![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
-
-
 
 
 The comaprision results between simple LDA , bertopic  and modified LDA (Textrank LDA) are comapred on the basis of preformance metric known as coherence score .
@@ -70,13 +62,6 @@ The comaprision results are comapred on the basis of major preformance metrics :
 <img width="836" alt="Screenshot 2024-12-21 at 12 00 07 PM" src="https://github.com/user-attachments/assets/c75848d8-59e4-40e4-b076-4bb0c36d2819" />
 
 
-# APPROACH FOR TOPIC MODELLING 
-Textrank-LDA
-
-
-![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
-
-<img width="641" alt="Screenshot 2024-12-21 at 12 04 26 PM" src="https://github.com/user-attachments/assets/039c9912-9fb8-4f96-8749-f8a27afdc799" />
 
 
 Sentiment ditribution for a span of 5 years
