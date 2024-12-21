@@ -11,6 +11,11 @@ For topic modelling,raw Youtube com- ments were translated into english using Go
 <img width="599" alt="Screenshot 2024-12-21 at 12 08 24 PM" src="https://github.com/user-attachments/assets/22ba9cd4-f56b-4f47-9246-771d748cb9b1" />
 
 
+
+
+
+
+
 RESULTS
 
 
@@ -43,6 +48,12 @@ The comaprision results between simple LDA , bertopic  and modified LDA (Textran
 CNN-Bilstm 
 
 ![image](https://github.com/user-attachments/assets/fac9f970-33fd-437b-9f53-ca1302b32e7f)
+
+
+
+
+
+
 
 
 RESULTS
