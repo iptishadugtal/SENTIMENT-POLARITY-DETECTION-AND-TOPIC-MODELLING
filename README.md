@@ -1,4 +1,14 @@
-# SENTIMENT-POLARITY-DETECTION-AND-TOPIC-MODELLING
+# APPROACH FOR TOPIC MODELLING 
+Textrank-LDA
+
+
+![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
+
+<img width="641" alt="Screenshot 2024-12-21 at 12 04 26 PM" src="https://github.com/user-attachments/assets/039c9912-9fb8-4f96-8749-f8a27afdc799" />
+
+
+
+# **SENTIMENT-POLARITY-DETECTION-AND-TOPIC-MODELLING**
 
 APPROACH FOR COMAPRITIVE SENTIMENT ANALYSIS
 
@@ -32,6 +42,7 @@ Textrank-LDA
 
 ![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
 
+<img width="641" alt="Screenshot 2024-12-21 at 12 04 26 PM" src="https://github.com/user-attachments/assets/039c9912-9fb8-4f96-8749-f8a27afdc799" />
 
 
 Sentiment ditribution for a span of 5 years
