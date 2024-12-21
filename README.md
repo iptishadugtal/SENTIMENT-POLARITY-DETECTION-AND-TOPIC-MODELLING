@@ -1,16 +1,22 @@
+# **SENTIMENT-POLARITY-DETECTION-AND-TOPIC-MODELLING**
+
 # APPROACH FOR TOPIC MODELLING 
 Textrank-LDA
 
 
+For topic modelling,raw Youtube com- ments were translated into english using Google translation module Google Trans in python . POS tagging was performed on the cleaned text and keywords highly relevant were extracted using TextRank algorithm. Combining TextRank with LDA impoved topic modelling by refining input data making topics relevant to each other and without repetition.
+
 ![topics](https://github.com/user-attachments/assets/c6b2a3fc-3a4c-4361-9ed5-be91e3b682aa)
+
+
 
 <img width="641" alt="Screenshot 2024-12-21 at 12 04 26 PM" src="https://github.com/user-attachments/assets/039c9912-9fb8-4f96-8749-f8a27afdc799" />
 
 
 
-# **SENTIMENT-POLARITY-DETECTION-AND-TOPIC-MODELLING**
 
-APPROACH FOR COMAPRITIVE SENTIMENT ANALYSIS
+
+# APPROACH FOR COMAPRITIVE SENTIMENT ANALYSIS
 
 
 <img width="524" alt="Screenshot 2024-11-26 at 9 49 11 PM" src="https://github.com/user-attachments/assets/5ab54653-8892-4fdc-8651-a1f06c0edc83">
